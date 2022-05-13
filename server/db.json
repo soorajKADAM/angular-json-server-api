@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "fullname": "aditya",
+      "rollno": "1",
+      "address": "karad",
+      "subject": "Chemistry",
+      "marks": 91,
+      "assignmentid": "2,3,4",
+      "assignmentname": "Assignment2,Assignment3,Assignment4",
+      "id": 1
+    },
+    {
+      "fullname": "sumit",
+      "rollno": "10",
+      "address": "karad",
+      "subject": "Chemistry",
+      "marks": 90,
+      "assignmentid": "3,4",
+      "assignmentname": "Assignment3,Assignment4",
+      "id": 2
+    },
+    {
+      "fullname": "sumitt",
+      "rollno": "3",
+      "address": "a",
+      "subject": "Biology",
+      "marks": 85,
+      "assignmentid": "1,2",
+      "assignmentname": "Assignment1,Assignment2",
+      "id": 3
+    }
+  ]
+}
